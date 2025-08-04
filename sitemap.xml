@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <!-- This is your website's main URL. -->
+      <loc>https://momina609-loopzen.github.io/AI-informative-website/</loc>
+      <!-- This is the last time the file was modified. Change this when you update your site. -->
+      <lastmod>2025-08-04</lastmod>
+      <!-- This tells Google how important this page is. It's the only page, so it's a high priority. -->
+      <priority>1.0</priority>
+   </url>
+</urlset>
